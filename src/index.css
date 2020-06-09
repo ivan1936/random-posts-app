@@ -1,0 +1,11 @@
+* {
+    margin:0;
+    padding:0;
+}
+    
+body {
+    width: 90vw;
+    background-color:#383b3d;
+    color: #81898e;
+    margin: 0 auto;
+}
